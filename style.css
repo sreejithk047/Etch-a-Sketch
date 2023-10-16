@@ -20,6 +20,6 @@
     box-sizing: border-box; /* Include padding and border in element's total width */
 }
 
-.square:hover{
+.color{
     background-color: blue;
 }
